@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Taegyu Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Taegyu Lee"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : # area of under the circle [avatar image]. "Taegyu"
   avatar           : "assets/images/2022_tgl_profilepic_1.jpg" # path of avatar image, e.g. 
-  bio              :  "Pushing the Boundaries in Architecture + Cities" # "I am an **amazing** person." (for bold text, you can put the word in between ** **)
+  bio              :  "Pushing the boundaries in Architecture + Cities" # "I am an **amazing** person." (for bold text, you can put the word in between ** **)
   location         : "Seoul, Korea"
-  email            : "tegyu@snu.ac.kr"
+ # email            : "tegyu@snu.ac.kr"
   links:
     - label: "tegyu@snu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
