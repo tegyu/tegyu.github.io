@@ -105,10 +105,8 @@ analytics:
 # Site Author
 author:
   name             : # area of under the circle [avatar image]. "Taegyu"
-  avatar           : # path of avatar image, e.g. 
-  "assets/images/2022_tgl_profilepic_1.jpg"
-  bio              : # "I am an **amazing** person." (for bold text, you can put the word in between ** **)
-  "Pushing the Boundaries in Architecture + Cities"
+  avatar           : "assets/images/2022_tgl_profilepic_1.jpg" # path of avatar image, e.g. 
+  bio              :  "Pushing the Boundaries in Architecture + Cities" # "I am an **amazing** person." (for bold text, you can put the word in between ** **)
   location         : "Seoul, Korea"
   email            : "tegyu@snu.ac.kr"
   links:
