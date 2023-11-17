@@ -112,7 +112,7 @@ author:
   links:
     - label: "tegyu@snu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
-      url: "tegyu@snu.ac.kr"
+      url: "mailto:tegyu@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
