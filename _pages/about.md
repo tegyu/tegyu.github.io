@@ -10,6 +10,7 @@ title: "ABOUT"
 * 전북대학교 건축학과 건축학사(2016)
     
 **Refereed Journal Publications**
+* Eun-Hye Yoo, Youngseob Eum, Taegyu Lee, Bumjoon Kang, Impact of bicycle infrastructure and long-term exposure to PM2.5 on cycling, Cities, Volume 160, 2025
 * 이태규, 김수영. (2023). 지구단위계획 계획유형별 결정조서에서의 중점계획항목 분석 - 서울시 지구단위계획을 중심으로 -. 대한건축학회연합논문집, 25(5), 79-90.
 * 이태규, 최재필. (2022). 세대간 공유주거 연계와 1인가구 주거수요의 관계. 대한건축학회논문집, 38(11), 3-12.
 * 강준경, 이태규, 유세원. (2022). 바이오미미크리 건축계획 과정의 체계화 및 웹기반 정보시스템의 개발에 관한 연구. 대한건축학회논문집, 38(11), 141-152.
